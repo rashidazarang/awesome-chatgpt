@@ -162,6 +162,7 @@
 - [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clear ChatGPT conversation history for increased privacy.
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
 - [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses are cut off.
+- [ChatGPT Chat Exporter](https://github.com/rashidazarang/chatgpt-chat-exporter) - Export your ChatGPT and Gemini conversations to Markdown, HTML or PDF.
 
 **Bookmarklets**
 
